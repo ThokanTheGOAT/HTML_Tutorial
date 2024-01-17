@@ -1,3 +1,7 @@
 h1{
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: blueviolet;
+  background-color: aqua;
+  font-style: oblique;
+  border-style: inset;
+  border-color: brown;
 }
